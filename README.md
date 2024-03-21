@@ -1,6 +1,6 @@
 # Reading_notes_class08
 
-## Programación con JavasScript
+## Operadores y bucles
 
 ### ¿Qué es una “expresión” en JavaScript?
 Una "expresión" en JavaScript es como una instrucción que produce un resultado. Estas son expresiones pueden involucrar variables, números, operaciones matemáticas o lógicas, e incluso llamadas a funciones.
